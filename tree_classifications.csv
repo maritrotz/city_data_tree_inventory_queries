@@ -1,0 +1,135 @@
+tree_id,common_name,scientific_name
+1,Locust,Robinia sp.
+2,Oak,Quercus sp.
+3,Ash,Fraxinus sp.
+4,Scotch pine,Pinus sylvestris
+5,Honeylocust,Gleditsia triacanthos
+6,Elm hybrid,Ulmus sp.
+7,Chinese elm,Ulmus parvifolia
+8,Austrian pine,Pinus nigra
+9,Willow,Salix sp.
+10,American elm,Ulmus americana
+11,Ponderosa pine,Pinus ponderosa
+12,Blue spruce,Picea pungens
+13,Cottonwood,Populus sp.
+14,Lanceleaf cottonwood,Populus acuminata
+15,Littleleaf linden,Tilia cordata
+16,White ash,Fraxinus americana
+17,Apple/Crabapple,Malus sp.
+18,Green ash,Fraxinus pennsylvanica
+19,Chanticleer pear,Pyrus calleryana
+20,Shademaster honeylocust,Gleditsia triacanthos 'Shademaster'
+21,Northern red oak,Quercus rubra
+22,Linden,Tilia sp.
+23,English oak,Quercus robur
+24,Escarpment live oak,Quercus fusiformis
+25,Pecan,Carya illinoinensis
+26,Southern live oak,Quercus virginiana
+27,Post oak,Quercus stellata
+28,Cedar elm,Ulmus crassifolia
+29,Sassafras,Sassafras albidum
+30,Red maple,Acer rubrum
+31,Freeman maple,Acer freemanii
+32,American linden,Tilia americana
+33,Arborvitae,Thuja sp.
+34,American sycamore,Platanus occidentalis
+35,Eastern redbud,Cercis canadensis
+36,Norway maple,Acer platanoides
+37,Tuliptree,Liriodendron tulipifera
+38,Amur maple,Acer tataricum
+39,Pin oak,Quercus palustris
+40,Sugar maple,Acer saccharum
+41,Hedge maple,Acer campestre
+42,Black european alder,Alnus glutinosa
+43,Eastern cottonwood,Populus deltoides
+44,Silver maple,Acer saccharinum
+45,Amur corktree,Phellodendron amurense
+46,River birch,Betula nigra
+47,Trident maple,Acer buergerianum
+48,Ginkgo,Ginkgo biloba
+49,Shantung maple,Acer truncatum
+50,Swamp white oak,Quercus bicolor
+51,Common crapemyrtle,Lagerstroemia sp.
+52,Chinese redbud,Cercis chinensis
+53,Chinese fringe tree,Chionanthus retusus
+54,Yellowwood,Cladrastis kentukea
+55,Chinese pistache,Pistacia chinensis
+56,Giant crape myrtle,Lagerstroemia speciosa
+57,Pink tecoma,Tabebuia heterophylla
+58,Ohia lehua / ilehua,Metrosideros polymorpha
+59,Neem tree,Azadirachta indica
+60,Kamani,Calophyllum inophyllum
+61,Golden shower,Cassia fistula
+62,Standing dead tree (Snag),None
+63,False olive,Cassine orientalis
+64,Coconut palm,Cocos nucifera
+65,White tecoma,Tabebuia berteroi
+66,Tulipwood,Harpullia pendula
+67,Conifer,Podocarpus sp.
+68,Plumeria pudica,Plumeria pudica
+69,Alahe'e,Psydrax odorata
+70,Haole kou,Cordia sebestena
+71,Guava,Psidium guajava
+72,Formosan koa,Acacia confusa
+73,Fiji fan palm,Pritchardia pacifica
+74,Fiddlewood,Citharexylum spinosum
+75,Scrambled egg tree,Senna surattensis
+76,Common hackberry,Celtis occidentalis
+77,Loblolly pine,Pinus taeda
+78,Willow oak,Quercus phellos
+79,Flowering dogwood,Cornus florida
+80,Common baldcypress,Taxodium distichum
+81,American hornbeam,Carpinus caroliniana
+82,London planetree,Platanus x acerifolia
+83,Shumard oak,Quercus shumardii
+84,Princeton elm,Ulmus americana 'Princeton'
+85,Eastern white pine,Pinus strobus
+86,Tree of heaven,Ailanthus altissima
+87,Southern red oak,Quercus falcata
+88,Black walnut,Juglans nigra
+89,Black locust,Robinia pseudoacacia
+90,White oak,Quercus alba
+91,Bur oak,Quercus macrocarpa
+92,Common persimmon,Diospyros virginiana
+93,Sweetgum,Liquidambar styraciflua
+94,Shingle oak,Quercus imbricaria
+95,Northern catalpa,Catalpa speciosa
+96,Sugar hackberry,Celtis laevigata
+97,Siberian elm,Ulmus pumila
+98,Black cherry,Prunus serotina
+99,Sycamore maple,Acer pseudoplatanus
+100,Mugga Ironbark,Eucalyptus sideroxylon
+101,California sycamore,Platanus racemosa
+102,European white birch,Betula pendula
+103,Kwanzan flowering cherry,Prunus serrulata 'Kwanzan'
+104,Wintergold crabapple,Malus 'Winter Gold'
+105,European beech,Fagus sylvatica
+106,Leyland cypress,Cupressocyparis leylandii
+107,Orangebark stewartia,Stewartia monadelpha
+108,Purpleleaf plum,Prunus x blireiana
+109,Thundercloud purpleleaf plum,Prunus cerasifera 'Thundercloud'
+110,Japanese snowbell tree,Styrax japonicus
+111,Common serviceberry,Amelanchier arborea
+112,Cockspur hawthorn,Crataegus crus-galli
+113,Purpleleaf plum,Prunus cerasifera
+114,Yellow birch,Betula alleghaniensis
+115,Dogwood,Cornus sp.
+116,Carriere hawthorn,Crataegus lavallei
+117,Arnold Buckeye,Aesculus arnoldiana
+118,Kentucky Coffeetree,Gymnocladus dioicus
+119,Miyabe Maple,Acer miyabei
+120,Vanguard elm,Ulmus 'Morton Plainsman'
+121,Amur Maackia,Maackia amurensis
+122,Crapemyrtle,Lagerstroemia indica
+123,Bottlebrush,Callistemon viminalis
+124,Loquat,Eriobotrya japonica
+125,Sand live oak,Quercus geminata
+126,Camphortree,Cinnamomum camphora
+127,Bluejack oak,Quercus incana
+128,Carolina laurelcherry,Prunus caroliniana
+129,Sand pine,Pinus clausa
+130,Cabbage palm,Sabal palmetto
+131,Nuttall oak,Quercus nuttallii
+132,New harmony elm,Ulmus americana 'New Harmony'
+133,Plane tree,Platanus sp.
+134,Japanese zelkova,Zelkova serrata
